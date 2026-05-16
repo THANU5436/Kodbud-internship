@@ -4,17 +4,17 @@
 This project is a Machine Learning based Spam Email Classifier that detects whether an email/message is Spam or Ham (Not Spam).
 
 ## Technologies Used
-- Python
-- Pandas
-- Scikit-learn
-- TF-IDF Vectorizer
-- Naive Bayes Algorithm
+ Python
+ Pandas
+ Scikit-learn
+ TF-IDF Vectorizer
+ Naive Bayes Algorithm
 
 ## Features
-- Text preprocessing
-- TF-IDF feature extraction
-- Spam/Ham prediction
-- Simple and fast model
+  Text preprocessing
+  TF-IDF feature extraction
+  Spam/Ham prediction
+  Simple and fast model
 
 ## Installation
 
@@ -37,9 +37,9 @@ python spam_classifier.py
 Prediction: spam
 
 ## Applications
-- Email filtering
-- SMS spam detection
-- Fraud message detection
+  Email filtering
+  SMS spam detection
+  Fraud message detection
 
 ## Author
 Thanuja
